@@ -1,0 +1,49 @@
+# Login page
+msgid "Đăng nhập"
+msgstr "Login"
+
+msgid "Số điện thoại"
+msgstr "Phone number"
+
+msgid "Mật khẩu"
+msgstr "Password"
+
+#datatable
+msgid "Không có dữ liệu trong bảng"
+msgstr "No data available in table"
+
+msgid " Hiển thị từ _START_ đến _END_ của _TOTAL_"
+msgstr " Showing _START_ to _END_ of _TOTAL_ entries"
+
+msgid " Hiển thị từ 0 đến 0 của 0"
+msgstr " Showing 0 to 0 of 0 entries"
+
+msgid "（lọc từ _MAX_ tổng mục）"
+msgstr "（filtered from _MAX_ total entries）"
+
+msgid "Hiển thị _MENU_ mục"
+msgstr "Show _MENU_ entries"
+
+msgid "Đang lấy dữ liệu..."
+msgstr "Loading..."
+
+msgid "Đang xử lý..."
+msgstr "Processing..."
+
+msgid "Tìm kiếm:"
+msgstr "Search:"
+
+msgid "Không tìm thấy dữ liệu"
+msgstr "No matching records found"
+
+msgid "Đầu"
+msgstr "First"
+
+msgid "Cuối"
+msgstr "Last"
+
+msgid "Sau"
+msgstr "Next"
+
+msgid "Trước"
+msgstr "Previous"

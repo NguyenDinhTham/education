@@ -1,0 +1,9 @@
+# Login page
+msgid "Đăng nhập"
+msgstr "Login"
+
+msgid "Số điện thoại"
+msgstr "Phone number"
+
+msgid "Mật khẩu"
+msgstr "Password"

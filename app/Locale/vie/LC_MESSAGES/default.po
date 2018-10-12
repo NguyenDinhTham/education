@@ -1,0 +1,49 @@
+# Login page
+msgid "Đăng nhập"
+msgstr "Đăng nhập"
+
+msgid "Số điện thoại"
+msgstr "Số điện thoại"
+
+msgid "Mật khẩu"
+msgstr "Mật khẩu"
+
+#datatable
+msgid "Không có dữ liệu trong bảng"
+msgstr "Không có dữ liệu trong bảng"
+
+msgid " Hiển thị từ _START_ đến _END_ của _TOTAL_"
+msgstr " Hiển thị từ _START_ đến _END_ của _TOTAL_"
+
+msgid " Hiển thị từ 0 đến 0 của 0"
+msgstr " Hiển thị từ 0 đến 0 của 0"
+
+msgid "（lọc từ _MAX_ tổng mục）"
+msgstr "（lọc từ _MAX_ tổng mục）"
+
+msgid "Hiển thị _MENU_ mục"
+msgstr "Hiển thị _MENU_ mục"
+
+msgid "Đang lấy dữ liệu..."
+msgstr "Đang lấy dữ liệu..."
+
+msgid "Đang xử lý..."
+msgstr "Đang xử lý..."
+
+msgid "Tìm kiếm:"
+msgstr "Tìm kiếm:"
+
+msgid "Không tìm thấy dữ liệu"
+msgstr "Không tìm thấy dữ liệu"
+
+msgid "Đầu"
+msgstr "Đầu"
+
+msgid "Cuối"
+msgstr "Cuối"
+
+msgid "Sau"
+msgstr "Sau"
+
+msgid "Trước"
+msgstr "Trước"
